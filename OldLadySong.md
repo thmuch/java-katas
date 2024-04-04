@@ -57,3 +57,10 @@ but I'd recommend using a syntax that most participants are familiar with (like 
 - This repo uses Java 21, but you can practice the kata with Java 8 as well (and probably even below).
 
 Have fun! 😊
+
+
+## Trivia
+
+There are even books about this rhyme 😍, for example
+
+![Book Cover](docs/images/there_was_an_old_lady.png)
